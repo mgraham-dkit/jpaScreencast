@@ -66,7 +66,6 @@ public class ScreencastApp {
             System.out.println(nre.getMessage());
         }
 
-
         // End program - close resources
         entityManager.close();
         factory.close();
